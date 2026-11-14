@@ -17,3 +17,6 @@ env/
 # Generated application data
 .movie_server_cache/
 *.log
+
+# Executable binaries
+*.exe
